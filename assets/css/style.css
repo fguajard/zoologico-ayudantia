@@ -1,0 +1,54 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.nav-img {
+  width: 50px;
+  height: 50px;
+}
+
+.leon-card {
+  height: 400px;
+  background-image: url(/assets/img/cards/card1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 3%;
+}
+
+.elefante-card {
+  height: 400px;
+  background-image: url(/assets/img/cards/card2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 3%;
+}
+
+.lobo-card {
+  height: 400px;
+  background-image: url(/assets/img/cards/card3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 3%;
+}
+
+.oso-card {
+  height: 400px;
+  background-image: url(/assets/img/cards/card4.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 3%;
+}
+
+.about h2 {
+  font-weight: 700;
+  letter-spacing: 0.065em;
+}
+
+.about p {
+  letter-spacing: 0.065em;
+  opacity: 30%;
+}
